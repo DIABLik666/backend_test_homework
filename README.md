@@ -1,1 +1,9 @@
-# backend_test_homework
+# Учебный проект для изучения работы с GitHub (Яндекс.Практикум)
+
+## Об авторе
+
+Бормотов Алексей Викторович  
+Python-разработчик (Backend)  
+Россия, г. Кемерово  
+E-mail: di-devil@yandex.ru  
+Telegram: @DIABLik666
